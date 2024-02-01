@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "65ba8d0b5a5be953710e03c9"
+  },
+  "login": "dfghdhd",
+  "password": "eis",
+  "email": "sdfs@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb422d9fbf37888a6b1cde"
+  },
+  "login": "zertttt",
+  "password": "zgrnyhxe",
+  "email": "kjklkihlk@kjhk.com",
+  "__v": 0
+}]

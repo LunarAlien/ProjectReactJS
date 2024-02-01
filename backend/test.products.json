@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65baaead757d99fd5038563e"
+  },
+  "header": "Электросамокат",
+  "price": 21900,
+  "image": "https://ir.ozone.ru/s3/multimedia-7/wc1000/6703409023.jpg"
+},
+{
+  "_id": {
+    "$oid": "65baee37757d99fd50385641"
+  },
+  "header": "Электросамокат",
+  "price": 16999,
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa-BI1EkfPgqQGGe5_22JsVLw9Fe2pL1wDR3oTDZzCH0M-ra2n"
+},
+{
+  "_id": {
+    "$oid": "65baeee2757d99fd50385642"
+  },
+  "header": "Электросамокат",
+  "price": 32800,
+  "image": "https://www.kvadroavto.ru/upload/resize_cache/iblock/33c/400_400_140cd750bba9870f18aada2478b24840a/33c77dcdef05040518fcffce72947a35.png"
+},
+{
+  "_id": {
+    "$oid": "65baef88757d99fd50385643"
+  },
+  "header": "Электросамокат",
+  "price": 47200,
+  "image": "https://electroway.ru/upload/iblock/cbf/z6eyrwuxfjd3xg0h520a5c36v503akzb.webp?1684439926"
+},
+{
+  "_id": {
+    "$oid": "65baf057757d99fd50385644"
+  },
+  "header": "Электросамокат",
+  "price": 44900,
+  "image": "https://eco-wheels.ru/d/elektrosamokat_dualtron_storm.jpg"
+},
+{
+  "_id": {
+    "$oid": "65baf059757d99fd50385645"
+  },
+  "header": "Гироскутер",
+  "price": 11500,
+  "image": "https://kontakt.az/media/catalog/product/cache/b34559cb8eb520f2bea0d3245ba154fd/h/o/hoverboard_kowheel_k8_black_6.5_3.png"
+},
+{
+  "_id": {
+    "$oid": "65baf05b757d99fd50385646"
+  },
+  "header": "Гироскутер",
+  "price": 8199,
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTm4s3jJvM_HB0HRF_aN10lLJzvnVrPbF-i4XCjQJy6-Q8r5b89"
+},
+{
+  "_id": {
+    "$oid": "65baf05d757d99fd50385647"
+  },
+  "header": "Гироскутер",
+  "price": 9299,
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTh4aYnzOSiRCGCa7GQfAiCQ15EixFXwF7-8_VNT0jYxQ8e5bbA"
+},
+{
+  "_id": {
+    "$oid": "65baf05f757d99fd50385648"
+  },
+  "header": "Сигвей",
+  "price": 14700,
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRLFM9gPBV7b4kNCPmBIFkRrUhrYE2k-qIV8-fxHws1Kt3ON0J"
+},
+{
+  "_id": {
+    "$oid": "65baf060757d99fd50385649"
+  },
+  "header": "Сигвей",
+  "price": 11999,
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVAjJ7Aa68neDJg00fUtjK1gPu_Zd1tPpKJoOuz_XkxGut-Xuj"
+}]
